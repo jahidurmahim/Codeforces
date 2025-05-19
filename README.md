@@ -9,4 +9,4 @@ Here, I upload my solutions to various competitive programming problems solved o
 [Visit My Profile](https://codeforces.com/profile/jahidurmahim)
 
 Feel free to explore the solutions and learn from them.  
-**Happy Coding! 😊
+Happy Coding! 😊
