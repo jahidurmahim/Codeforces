@@ -1,4 +1,4 @@
-//     Bismillahir Rahmanir Rahim     //
+			//     Bismillahir Rahmanir Rahim     //
                        //        Jahidur Rahman Mahim        //
                       //        AUTHOR : jahidurmhaim       //
 #include <bits/stdc++.h>
