@@ -1,6 +1,6 @@
-						                            //     Bismillahir Rahmanir Rahim     //
-                                       //        Jahidur Rahman Mahim        //
-                                      //        AUTHOR : jahidurmhaim       //
+						//     Bismillahir Rahmanir Rahim     //
+                                       		//        Jahidur Rahman Mahim        //
+                                      		//        AUTHOR : jahidurmhaim       //
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
